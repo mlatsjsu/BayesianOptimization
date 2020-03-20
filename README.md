@@ -1,4 +1,6 @@
 # BayesianOptimization Workshop
+## Link to Slides
+* https://tinyurl.com/rcv2z5v
 ## Things to install:
 * Bayesian-optimization: `pip install bayesian-optimization`
 * Tensorflow: `pip install tensorflow`
